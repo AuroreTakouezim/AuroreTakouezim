@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @AuroreTakouezim
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Bonjour, je suis Aurore TAKOUEZIM !
+📊 Passionnée par la visualisation de données et l'analyse décisionnelle, j'exploite les données pour faciliter la prise de décision éclairée.
 
-<!---
-AuroreTakouezim/AuroreTakouezim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔎 Ce que je fais :
+
+Conception de tableaux de bord interactifs avec Power BI
+Modélisation et transformation des données avec Power Query, DAX et Spark
+Analyse et reporting pour optimiser la prise de décision
+🚀 En cours d’apprentissage : Big Data, Machine Learning, optimisation des modèles de données et bonnes pratiques BI
+
+💡 Ouverte aux collaborations sur des projets en Business Intelligence et analyse de données.
+
+📫 Me contacter : [takouezim2003@gmail.com | Aurore Takouezim |
+
 #document readme
